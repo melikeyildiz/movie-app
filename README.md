@@ -20,4 +20,4 @@ Bu uygulama, TheMovieDB API kullanılarak geliştirilmiş basit bir film listele
 ## Resimler
 Proje ile ilgili görseller ve ekran görüntüleri bu bölümde yer alacaktır.
 
-![Örnek Resim](https://imgur.com/aUn3bce)
+![Örnek Resim](https://i.imgur.com/aUn3bce.png)
